@@ -16,5 +16,5 @@ int main()
             break;
         }
     }
-    cout << y << endl;
+    cout << y <<" " <<endl;
 }
